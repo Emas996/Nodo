@@ -1,0 +1,15 @@
+{
+  "name": "nodo-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The official Nōdo brand website.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
