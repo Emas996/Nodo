@@ -55,7 +55,7 @@ svg{display:block}
 .product-copy .text-link{margin-top:25px;min-width:165px}
 .collection-end{display:flex;justify-content:space-between;gap:32px;align-items:end;margin-top:100px;padding-top:30px;border-top:1px solid var(--line)}
 .collection-end p{font-size:21px;line-height:1.25;letter-spacing:-.025em}
-.site-footer{padding:60px var(--gutter) 26px;background:var(--paper);color:var(--ink);border-top:1px solid var(--line);overflow:hidden}
+.site-footer{padding:60px var(--gutter) 26px;background:var(--ink);color:var(--paper);overflow:hidden}
 .footer-top{display:flex;justify-content:space-between;gap:40px;align-items:start}
 .footer-top p{font-size:21px;line-height:1.25;letter-spacing:-.02em}
 .footer-top nav{display:grid;grid-template-columns:repeat(3,auto);gap:40px;font-size:13px}
@@ -63,7 +63,7 @@ svg{display:block}
 .footer-top .arrow{width:15px;height:15px}
 .footer-top nav a:hover,.footer-bottom a:hover{text-decoration:underline}
 .footer-wordmark{display:block;width:100%;max-width:1500px;margin:60px auto 40px}
-.footer-bottom{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:24px;font-size:10px;color:var(--muted);gap:20px}
+.footer-bottom{display:flex;justify-content:space-between;align-items:center;border-top:1px solid #5d5d55;padding-top:24px;font-size:10px;color:#bcbcb3;gap:20px}
 .footer-bottom a{min-height:32px;display:flex;align-items:center}
 .page-intro{padding-top:70px;padding-bottom:86px}
 .page-intro h1{font-size:clamp(64px,9vw,154px);line-height:.96;margin-top:38px}
