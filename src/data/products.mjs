@@ -14,7 +14,7 @@ export const products = [
     secondaryAlt: 'The Nōdo rotating organizer in yellow and cream, holding stationery.',
     secondaryCaption: 'A different colour. The same thoughtful design.',
     sourceUrl: 'https://www.etsy.com/listing/4585095307/rotating-2-tier-desk-organizer-with-pen',
-    shopUrl: etsyUrl,
+    shopUrl: 'https://www.etsy.com/it/listing/4585095307/rotating-2-tier-desk-organizer-with-pen',
   },
   {
     id: 'pages-dreams',
@@ -28,6 +28,6 @@ export const products = [
     secondaryAlt: 'The empty Pages & Dreams bookend, showing three ribbed compartments and pink floral details.',
     secondaryCaption: 'A small place for the things between the pages.',
     sourceUrl: 'https://www.etsy.com/listing/4593932689/bookends-and-bookmark-holders',
-    shopUrl: etsyUrl,
+    shopUrl: 'https://www.etsy.com/it/listing/4593932689/ferma-libri-e-porta-segnalibri',
   },
 ];
